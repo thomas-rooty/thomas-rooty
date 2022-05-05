@@ -1,7 +1,18 @@
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thomas-rooty)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-thomas-caron)
-[![stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15032117/rootkitty)
-[![tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tho_macaron)
+<div align="center">
+  <a href="https://instagram.com/thomas-rooty">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dev-thomas-caron">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://stackoverflow.com/users/15032117/rootkitty">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+  </a>
+  <a href="https://tiktok.com/@tho_macaron">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
+</div>
+
 ```js
 const thomas = {
     code: ["JS", "PHP", "HTML/CSS", "Python"],
@@ -22,3 +33,6 @@ const thomas = {
     currentFocus: "Building websites for freelancers, and leveling up my skills on my street trial bike !"
 };
 ```
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/19364687/166894725-66365719-e655-445e-a8c9-a9f24b1ba5c8.gif" alt="Street trial 1"/>
+</div>
