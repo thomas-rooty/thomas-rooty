@@ -1,6 +1,6 @@
 
 ```js
-const thomas = {
+const thomasRooty = {
     code: ["JS", "PHP", "HTML/CSS", "Python"],
     askMeAbout: ["app dev", "web dev", "3d", "game dev", "street trial"],
     technologies: {
