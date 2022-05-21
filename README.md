@@ -1,4 +1,3 @@
-
 ```js
 const thomasRooty = {
     code: ["JS", "PHP", "HTML/CSS", "Python"],
@@ -20,6 +19,7 @@ const thomasRooty = {
 };
 ```
 <div align="center">
+<hr/>
   <a href="https://instagram.com/thomas-rooty">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
@@ -32,6 +32,7 @@ const thomasRooty = {
   <a href="https://tiktok.com/@tho_macaron">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
-  <img src="https://user-images.githubusercontent.com/19364687/166894725-66365719-e655-445e-a8c9-a9f24b1ba5c8.gif" alt="Street trial 1"/>
+<hr/>
   <img src="https://user-images.githubusercontent.com/19364687/166896346-af7b05a3-95ab-4d9c-b60c-218c84d5125c.gif" alt="Street trial 2"/>
 </div>
+
