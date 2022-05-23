@@ -1,7 +1,7 @@
 ```js
 const thomasRooty = {
     code: ["JS", "PHP", "HTML/CSS", "Python"],
-    askMeAbout: ["app dev", "web dev", "3d", "game dev", "street trial"],
+    askMeAbout: ["app dev", "web dev", "game dev", "3d", "street trial"],
     technologies: {
         backEnd: {
             js: ["Node", "Express"],
