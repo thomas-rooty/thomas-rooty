@@ -15,7 +15,7 @@ const thomasRooty = {
         databases: ["MongoDB", "MySQL", "SQLite", "Microsoft SQL Server"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Building websites for freelancers, and leveling up my skills on my street trial bike !"
+    currentFocus: "Building websites for freelancers, scalping crypto charts, and leveling up my skills on my street trial bike !"
 };
 ```
 <div align="center">
