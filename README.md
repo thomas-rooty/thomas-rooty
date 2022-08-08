@@ -20,7 +20,7 @@ const thomasRooty = {
 ```
 <div align="center">
 <hr/>
-  <a href="https://instagram.com/thomas-rooty">
+  <a href="https://instagram.com/tho_macaron">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/dev-thomas-caron">
