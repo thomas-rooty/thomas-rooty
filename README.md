@@ -1,7 +1,7 @@
 ```js
 const thomasRooty = {
-    code: ["JS", "PHP", "HTML/CSS", "Python"],
-    askMeAbout: ["app dev", "web dev", "game dev", "3d", "crypto", "bikes"],
+    code: ["JS", "PHP", "HTML/CSS", "Python", "LUA"],
+    askMeAbout: ["web dev", "game dev", "3d", "crypto", "bikes"],
     technologies: {
         frontEnd: {
             js: ["ReactJS", "NextJS"]
@@ -10,6 +10,7 @@ const thomasRooty = {
             js: ["Node", "Express"],
             php: ["Symfony", "Laravel"]
         },
+        favoriteLib: ["ThreeJS", "React Three Fiber", "Zustand"]
         devOps: ["AWS", "Docker", "Netlify", "Heroku", "Vercel", "Nginx"],
         systemAndNetworking: ["pfSense", "IPSec", "VPN", "Site to site", "VMWare ESXi", "iDrac"],
         databases: ["MongoDB", "MySQL", "SQLite", "Microsoft SQL Server"]
