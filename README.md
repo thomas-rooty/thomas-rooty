@@ -3,12 +3,12 @@ const thomasRooty = {
     code: ["JS", "PHP", "HTML/CSS", "Python"],
     askMeAbout: ["app dev", "web dev", "game dev", "3d", "crypto", "bikes"],
     technologies: {
+        frontEnd: {
+            js: ["ReactJS", "NextJS"]
+        },
         backEnd: {
             js: ["Node", "Express"],
             php: ["Symfony", "Laravel"]
-        },
-        frontEnd: {
-            js: ["ReactJS", "NextJS"]
         },
         devOps: ["AWS", "Docker", "Netlify", "Heroku", "Vercel", "Nginx"],
         systemAndNetworking: ["pfSense", "IPSec", "VPN", "Site to site", "VMWare ESXi", "iDrac"],
