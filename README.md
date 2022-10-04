@@ -10,9 +10,9 @@ const thomasRooty = {
 			js: ["Node", "Express"],
 			php: ["Symfony", "Laravel"]
 		},
-		favoriteLib: ["ThreeJS", "React Three Fiber", "Zustand"]
-		devOps: ["AWS", "Docker", "Netlify", "Heroku", "Vercel", "Nginx"],
-		systemAndNetworking: ["pfSense", "IPSec", "VPN", "Site to site", "VMWare ESXi", "iDrac"],
+		favoriteLib: ["ThreeJS", "React Three Fiber", "React Three Cannon", "Zustand"],
+		devOps: ["AWS", "Firebase", "Docker", "Netlify", "Heroku", "Vercel", "Nginx"],
+		systemAndNetworking: ["pfSense", "IPSec", "VPN", "ESXi", "iDrac"],
 		databases: ["MongoDB", "MySQL", "SQLite", "Microsoft SQL Server"]
 	},
 	architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
