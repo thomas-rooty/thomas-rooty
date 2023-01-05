@@ -1,14 +1,14 @@
 ```js
 const thomasRooty = {
 	code: ["JS", "PHP", "HTML/CSS", "Python", "LUA"],
-	askMeAbout: ["web dev", "game dev", "3d", "crypto", "bikes"],
+	askMeAbout: ["web dev", "game dev", "3d", "bikes"],
 	technologies: {
 		frontEnd: {
 			js: ["ReactJS", "NextJS"]
 		},
 		backEnd: {
-			js: ["Node", "Express"],
-			php: ["Symfony", "Laravel"]
+			js: ["Node", "Express", "Hapi"],
+			php: ["Symfony"]
 		},
 		favoriteLib: ["ThreeJS", "React Three Fiber", "React Three Cannon", "Zustand"],
 		devOps: ["AWS", "Firebase", "Docker", "Netlify", "Heroku", "Vercel", "Nginx"],
@@ -16,7 +16,7 @@ const thomasRooty = {
 		databases: ["MongoDB", "MySQL", "SQLite", "Microsoft SQL Server"]
 	},
 	architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-	currentFocus: "Building websites for freelancers, dumping crypto charts, and leveling up my skills on my street trial bike !"
+	currentFocus: "Building portfolios or application websites, dumping crypto charts, and leveling up my skills on my street trial bike !"
 };
 ```
 
