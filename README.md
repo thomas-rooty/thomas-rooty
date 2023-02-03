@@ -44,7 +44,7 @@ const thomasRooty = {
   <a href="https://spacescape.vercel.app/">
     <img width="600" src="https://github.com/thomas-rooty/spacescape/raw/master/public/img/spacescape_banner.png" alt="Street trial 2"/>
   </a>
-  <a href="https://web.tcaron.fr/assets/NeoimSentry.png">
-    <img width="600" src="https://github.com/thomas-rooty/spacescape/raw/master/public/img/spacescape_banner.png" alt="Street trial 2"/>
+  <a href="https://neoim-sentry.vercel.app/">
+    <img width="600" src="https://web.tcaron.fr/assets/NeoimSentry.png" alt="Street trial 2"/>
   </a>
 </div>
