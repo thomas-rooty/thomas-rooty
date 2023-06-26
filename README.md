@@ -8,9 +8,6 @@
   <a href="https://stackoverflow.com/users/15032117/rootkitty">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
   </a>
-  <a href="https://tiktok.com/@tho_macaron">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-  </a>
   <img src="https://i.imgur.com/mqb15Ue.png" alt="CheckOut"/>
   <a href="https://3d.tcaron.fr">
     <img width="600" src="https://raw.githubusercontent.com/thomas-rooty/tricycle-portfolio/main/public/assets/icons/banner.png" alt="3D Tricycle Portfolio"/>
