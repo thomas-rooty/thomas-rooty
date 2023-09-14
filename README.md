@@ -26,4 +26,6 @@
   <a href="https://neoim-sentry.vercel.app/">
     <img width="600" src="https://web.tcaron.fr/assets/NeoimSentry.png" alt="NEOIM Sentry"/>
   </a>
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=thomas-rooty&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&hide_current_streak=true)](https://git.io/streak-stats)
 </div>
