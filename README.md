@@ -10,7 +10,10 @@
   </a>
   <br />
   <br />
-  <img src="https://i.imgur.com/mqb15Ue.png" alt="CheckOut"/>
+  <img src="https://i.imgur.com/mqb15Ue.png" alt="Featured work down here"/>
+  <a href="https://playdragonica.eu/">
+    <img width="600" src="https://game-guide.fr/wp-content/uploads/2015/11/Dragonia-titre.jpg" alt="Dragonica"/>
+  </a>
   <a href="https://spacescape.vercel.app/">
     <img width="600" src="https://github.com/thomas-rooty/spacescape/raw/master/public/img/spacescape_banner.png" alt="Spacescape"/>
   </a>
